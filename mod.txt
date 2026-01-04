@@ -1,0 +1,9 @@
+{
+    "name" : "DLC Unhider",
+    "description" : "Forces game to not hide certain DLC items like Scarface's room upgrade and cash blaster",
+    "author" : "TheDearbear",
+    "contact": "https://steamcommunity.com/id/TheDearbear/",
+	"supermod_definition" : "unhider.xml",
+    "version" : "1",
+    "blt_version" : 2
+}

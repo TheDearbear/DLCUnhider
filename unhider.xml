@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<mod>
+	<hooks>
+        <post hook_id="lib/managers/dlcmanager" script_path="dlcmanager.lua"/>
+    </hooks>
+</mod>
